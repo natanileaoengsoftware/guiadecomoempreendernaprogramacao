@@ -1,0 +1,21 @@
+body, p, h1, span{
+  margin: 0px;
+  font-family: 'Newsreader', 'Times New Roman', Times, serif;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+:root{
+  --titulo: 600;
+  --texto: 400;
+  --detalhe: 500;
+  --cor-0:#FDDF04;
+  --cor-1:#FFFFFF;
+  --cor-2:#673CC2;
+  --cor-3:#7e58cd;
+  --cor-4: #280D50;
+  --cor-5: #000000;
+} 
